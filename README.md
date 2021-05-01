@@ -6,11 +6,14 @@ Provide up to three examples of work/projects that you’ve recently participate
  
 # Inspiration
 Provide up to three examples of work that has recently inspired you from a technical perspective. These can be open source projects, CodePens/CodeSandboxes, blog posts, etc. Be sure to include specifics on what you found inspiring.
+1. https://threejs.org/
+2. https://codesandbox.io/examples/package/react-three-fiber
+3. https://codesandbox.io/s/m7q0r29nn9
  
 # Focus
 If you were given the time and resources to build/learn anything you wanted during your internship, where would you choose to focus your efforts? Provide a brief description of how you would spend your time.
+I would like to focus my efforts developing new type of graphical interfaces to improve the user's experience (UX). There are multiple JavaScript libraries that can enhace the interaction and make the websites more appealing. After listening the client's needs, I would search for the best set of tools to achieve the client's objective. Then, I would expand my knowledge searching for code references, web tutorials and blogs.  During the app development, I would constatntly ask for support and references from experienced developer and also listen to the client's feedback. 
  
 # Code Challenge
 Please fork the following CodeSandbox project, follow the instructions provided in the README.md file in the project, and do your best to complete the challenge. When you are finished, provide a link to your solution in your README.md file of your GitHub repository. Be prepared to walk through your solution and explain the rationale behind your solution.
 
- https://codesandbox.io/s/2021-internship-exercise-menu-prv62?file=/README.
