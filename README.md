@@ -7,8 +7,9 @@ Provide up to three examples of work/projects that you’ve recently participate
 # Inspiration
 Provide up to three examples of work that has recently inspired you from a technical perspective. These can be open source projects, CodePens/CodeSandboxes, blog posts, etc. Be sure to include specifics on what you found inspiring.
 1. https://threejs.org/ - For me, it is fantastic to experience different ways to interact with the objects in websites, specially in a 3D enviroment; 
-2. https://codesandbox.io/examples/package/react-three-fiber - 
-3. https://codesandbox.io/s/m7q0r29nn9
+2. https://codesandbox.io/examples/package/react-three-fiber - I am really impressed by the art design. Another point that calls my attention is  the application of physical concepts like gravity, improving the animation quality. 
+3. https://www.npmjs.com/package/r3f-framer - The use of multiples features in the same project is fascinating.
+
  
 # Focus
 If I were given the time and resources to build/learn anything you wanted during your internship, I would like to focus my efforts developing new type of graphical interfaces to improve the user's experience (UX). There are multiple JavaScript libraries that can enhace the interaction and make the websites more appealing. After listening the client's needs, I would search for the best set of tools to achieve the client's objective. Then, I would expand my knowledge searching for code references, web tutorials and blogs.  During the app development, I would constatntly ask for support and references from experienced developer. I would also keep the clients updated during the development phase to incorporate  their feedback. 
