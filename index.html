@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <script>
+      function spicyFunction() {
+        let spicyItems = document.getElementsByClassName("spicy");
+        for (let item of spicyItems) {
+          let checkBox = document.getElementById("spicyCheckBox");
+          if (checkBox.checked === true) {
+            item.style.display = "block";
+          } else {
+            item.style.display = "none";
+          }
+        }
+      }
+    </script>
+    <title>2020 Internship1 Exercise - Menu</title>
+    <meta charset="UTF-8" />
+  </head>
+  <body>
+    <header>
+      <h1 style="text-align: center;">
+        Fancy Italian Restaurant
+        <img
+          id="spicyImg"
+          src="../assets/StampItalyFlag.svg"
+          width="50px"
+          alt="Pepper Image"
+        />
+      </h1>
+    </header>
+    <main>
+      <div id="menu"></div>
+    </main>
+    <footer></footer>
+    <script src="src/index.js"></script>
+  </body>
+</html>
